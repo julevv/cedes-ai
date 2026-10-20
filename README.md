@@ -1,5 +1,5 @@
 # cedes-ai
-[i!ndex.html](https://github.com/user-attachments/files/33700237/i.ndex.html)
+
 <!doctype html>
 <html lang="en-AU">
 <head>
